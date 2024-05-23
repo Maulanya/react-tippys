@@ -1,22 +1,22 @@
 {
-  "name": "react-tippy",
+  "name": "react-tippys",
   "version": "1.4.0",
-  "description": "React tippy",
-  "main": "dist/react-tippy.js",
+  "description": "React tippys",
+  "main": "dist/react-tippys.js",
   "files": [
     "dist",
     "index.d.ts"
   ],
-  "author": "Khoa Thai",
+  "author": "Maulanya",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tvkhoa/react-tippy.git"
+    "url": "https://github.com/Maulanya/react-tippys.git"
   },
   "bugs": {
     "url": "https://github.com/tvkhoa/react-tippy/issues"
   },
-  "homepage": "https://github.com/tvkhoa/react-tippy",
+  "homepage": "https://github.com/Maulanya/react-tippys",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-core": "^6.24.0",
